@@ -99,7 +99,7 @@ python your_script_name.py
 ## 使用指南
 
 应用界面分为左右两部分：左侧是**控制面板**，右侧是**图表显示区域**。
-[image](https://github.com/XiaojiangLiu2020/EnoseAnalysis/blob/main/UIScreenShot.png)
+![image](https://github.com/XiaojiangLiu2020/EnoseAnalysis/blob/main/UIScreenShot.png)
 
 ### 第一步：文件管理
 
