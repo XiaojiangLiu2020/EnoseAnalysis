@@ -4,9 +4,7 @@
 
 本平台使用 Python 的 Dash 框架构建，具有直观的用户界面和强大的后端数据处理能力。
 
-![应用界面截图]
-*(注：这是一个示例截图，实际界面以应用为准)*
-
+![image](https://github.com/XiaojiangLiu2020/EnoseAnalysis/blob/main/UIScreenShot.png)
 ## 目录
 
 - [主要功能](#主要功能)
